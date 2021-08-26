@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu perfil!!
 
 - 👋 Olá, me chamo Gilmar Antonio
-- 👀 Estou interessado em evoluir como programador
+- 👀 Estou buscando em evoluir como programador e como pessoa.
 - 🌱 Atualmente estou aprendendo HTML5, CSS e JS
 - 📫 Contate-me no e-mail dev.gilsantos@gmail.com
 <div> 
