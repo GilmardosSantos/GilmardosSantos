@@ -1,9 +1,9 @@
-### Olá, bem vindo ao meu perfil!!
+### Welcome to my profile!!
 
-- 👋 Olá, me chamo Gilmar Antonio
-- 👀 Estou buscando em evoluir como programador e como pessoa.
-- 🌱 Atualmente estou aprendendo HTML5, CSS e JS
-- 📫 Contate-me no e-mail dev.gilsantos@gmail.com
+- 👋 Hello, i'm Gilmar Antonio
+- 👀 Junior SDE w/ Angular/Firebase.
+- 🌱 Actually learning React and Flutter, 
+- 📫 Contact at <a href="mailto:dev.gilsantos@gmail.com">dev.gilsantos@gmail.com</a>
 <div> 
   <a href="https://github.com/GilmardosSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GilmardosSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
