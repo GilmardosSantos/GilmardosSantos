@@ -1,7 +1,7 @@
 ### Welcome to my profile!!
 
 - 👋 Hello, i'm Gilmar Antonio
-- 👀 SDE base on Angular, React and Postgres.
+- 👀 SDE based on Angular, React and Postgres.
 - 📫 Contact at <a href="mailto:contato@gilmarantonio.dev">contato@gilmarantonio.dev</a>
 <div> 
   <a href="https://github.com/GilmardosSantos">
