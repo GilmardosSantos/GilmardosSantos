@@ -1,9 +1,8 @@
 ### Welcome to my profile!!
 
 - 👋 Hello, i'm Gilmar Antonio
-- 👀 Junior SDE w/ Angular/Firebase.
-- 🌱 Actually learning React and Flutter, 
-- 📫 Contact at <a href="mailto:dev.gilsantos@gmail.com">dev.gilsantos@gmail.com</a>
+- 👀 SDE base on Angular, React and Postgres.
+- 📫 Contact at <a href="mailto:contato@gilmarantonio.dev">contato@gilmarantonio.dev</a>
 <div> 
   <a href="https://github.com/GilmardosSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GilmardosSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
